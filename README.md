@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Imagem](imagens/avatar.jpg).
+![Imagem](imagens/tela.png).
